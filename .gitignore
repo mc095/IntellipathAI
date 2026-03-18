@@ -10,7 +10,8 @@ venv
 # Database files
 db.sqlite3
 # Environment variables
-.env
+.env.*
 # Project specific files
 .DS_Store
 *.log
+.env.txt
